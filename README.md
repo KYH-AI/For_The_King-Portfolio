@@ -135,4 +135,5 @@ public void ShowPath(Vector3Int selectedHexPosition, HexGrid hexGrid)
 
 | 맵 이동 타일 절차적 생성  | 이벤트 타일 생성 | 이동 범위 표시 |
 |----------------|------------------|---------------|
-| ![range](img/range.png) | ![path](img/path.png) | ![map](img/map.png) |
+| ![map](images/MapGen.jpg)
+![map](images/MapGen2.jpg) | ![Event Tile](images/EventTileGen.jpg) | ![Show Path](images/ShowPath.jph) |
